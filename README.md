@@ -5,13 +5,12 @@ Hello! I'm Sara, a passionate programming enthusiast and a student at 42 Madrid,
 ## About Me
 
 - 👩‍💻 Enthusiastic student at 42 Madrid and keen on software development.
-- 🌻 Constantly learning and honing my skills in C, Java, JavaScript and SQL.
 - 💡 Passionate about creatively solving problems.
-- 🚀 Seeking challenging projects to contribute to and learn from the community.
 
 ## Languages and Tools
 
 - 🌐 Gradually mastering C and Java.
+- 🌻 Starting in JavaScript and SQL.
 - 🌟 Experimenting with various tools and technologies.
 
 ## My Goals
