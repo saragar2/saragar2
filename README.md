@@ -1,4 +1,4 @@
-# Welcome to my Coding Corner 🌸👩‍💻
+# <sub><img src="https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f338/u1f338_u1f33c.png" width=40></sub> Welcome to my Coding Corner <sub><img src="https://www.gstatic.com/android/keyboard/emojikitchen/20230127/u1f338/u1f338_u1f33c.png" width=40></sub>
 
 Hello! I'm Sara, a passionate programming enthusiast and a student at 42 Madrid, currently pursuing a degree in Software Development (DAM). Here in my virtual corner, I'm navigating the vast world of coding and relishing every moment of this exciting journey.
 
