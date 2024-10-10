@@ -2,7 +2,6 @@
 
 Hello! I'm Sara, a passionate programming enthusiast and a student at <a href="https://www.42madrid.com/">42 Madrid</a> (<a href="https://profile.intra.42.fr/users/saragar2">@saragar2</a>), currently pursuing a degree in Software Development (DAM). Here in my virtual corner, I'm navigating the vast world of coding and relishing every moment of this exciting journey.
 
-[![saragar2's 42 stats](https://badge.mediaplus.ma/starryblue/saragar2)](https://github.com/oakoudad/badge42)
 
 ## About Me
 
